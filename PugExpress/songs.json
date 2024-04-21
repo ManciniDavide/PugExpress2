@@ -1,0 +1,24 @@
+{
+    "songs": [
+      {
+        "song_id": "1",
+        "title": "Wish You Were Here",
+        "author": "Pink floyd",
+        "lyrics": "....."
+      },
+      {
+        "song_id": "2",
+        "title": "sweet child o' mine",
+        "author": "guns n' roses",
+        "lyrics": "......"
+        
+      },
+      {
+        "song_id": "3",
+        "title": "Aida",
+        "author": "Rino Gaetano",
+        "lyrics": "......"
+        
+      }
+    ]
+  }
